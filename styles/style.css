@@ -1,0 +1,38 @@
+html {
+    
+    font-family: 'Tangerine', serif;
+    font-size: 48px; /* px means "pixels": the base font size is now 10 pixels high */
+    background-color: #b4dbbe;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #8a9e91;
+    text-shadow: 2px 3px 2px black;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  
+  p,
+  li {
+    font-size: 25px;
+    line-height: 1;
+    letter-spacing: 2px;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #e1e6e3;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+  }
+  
